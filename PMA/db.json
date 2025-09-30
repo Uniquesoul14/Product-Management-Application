@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Laptop",
+      "category": "Electronics",
+      "price": 50000
+    },
+    {
+      "id": "2",
+      "title": "Smartphone",
+      "category": "Electronics",
+      "price": 25000
+    },
+    {
+      "id": "3",
+      "title": "Headphones",
+      "category": "Electronics",
+      "price": 2000
+    },
+    {
+      "id": "4",
+      "title": "Refrigerator",
+      "category": "Home Appliances",
+      "price": 30000
+    },
+    {
+      "id": "5",
+      "title": "Microwave Oven",
+      "category": "Home Appliances",
+      "price": 12000
+    },
+    {
+      "id": "6",
+      "title": "Washing Machine",
+      "category": "Home Appliances",
+      "price": 28000
+    },
+    {
+      "id": "7",
+      "title": "Television",
+      "category": "Electronics",
+      "price": 40000
+    },
+    {
+      "id": "8",
+      "title": "Tablet",
+      "category": "Electronics",
+      "price": 18000
+    },
+    {
+      "id": "9",
+      "title": "Camera",
+      "category": "Electronics",
+      "price": 35000
+    },
+    {
+      "id": "10",
+      "title": "Smartwatch",
+      "category": "Electronics",
+      "price": 8000
+    },
+    {
+      "id": "11",
+      "title": "Gaming Console",
+      "category": "Electronics",
+      "price": 45000
+    },
+    {
+      "id": "12",
+      "title": "Air Conditioner",
+      "category": "Home Appliances",
+      "price": 38000
+    },
+    {
+      "id": "13",
+      "title": "Blender",
+      "category": "Home Appliances",
+      "price": 3000
+    },
+    {
+      "id": "14",
+      "title": "Vacuum Cleaner",
+      "category": "Home Appliances",
+      "price": 7000
+    },
+    {
+      "id": "15",
+      "title": "Mixer Grinder",
+      "category": "Home Appliances",
+      "price": 5500
+    },
+    {
+      "id": "16",
+      "title": "Desk Chair",
+      "category": "Furniture",
+      "price": 6000
+    },
+    {
+      "id": "17",
+      "title": "Sofa Set",
+      "category": "Furniture",
+      "price": 45000
+    },
+    {
+      "id": "18",
+      "title": "Dining Table",
+      "category": "Furniture",
+      "price": 30000
+    },
+    {
+      "id": "19",
+      "title": "Bookshelf",
+      "category": "Furniture",
+      "price": 10000
+    },
+    {
+      "id": "20",
+      "title": "Bed Frame",
+      "category": "Furniture",
+      "price": 35000
+    },
+    {
+      "id": "21",
+      "title": "Office Desk",
+      "category": "Furniture",
+      "price": 20000
+    },
+    {
+      "title": "Sofa ",
+      "category": "Furniture",
+      "price": 5000,
+      "id": "36de"
+    }
+  ]
+}
