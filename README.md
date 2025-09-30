@@ -29,6 +29,14 @@ A React-based Product Management System that allows users to manage products eff
 
 All product data is stored and updated in a JSON Server API, enabling persistent changes across sessions.
 
+<h2>🎬 Demo Video</h2>
+
+
+
+https://github.com/user-attachments/assets/214dc267-8848-46b6-9583-bc8f4a6e35d3
+
+
+
 <h2>🛠️ Tech Stack</h2>
 
 Frontend: React.js ⚛️<br>
